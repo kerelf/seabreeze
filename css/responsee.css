@@ -54,7 +54,7 @@ img {
 }
 .owl-item img, .full-img {
   max-width: none;
-  width:50%;
+  width:100%;
 }  
 table {
   background:none repeat scroll 0 0 #fff;
